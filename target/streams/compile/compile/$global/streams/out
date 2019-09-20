@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/mmt6293/datateam/dynamoSparkV2/src/main/scala/com/goibibo/spark/datasourcev2/dynamoDB/connector/DynamoConnector.scala:32:25: dynamodb is not an enclosing class[0m
+[0m[[0m[31merror[0m] [0m[0mprivate[dynamodb] trait DynamoConnector {[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/mmt6293/datateam/dynamoSparkV2/src/main/scala/com/goibibo/spark/datasourcev2/dynamoDB/connector/FilterPushdown.scala:27:26: dynamodb is not an enclosing class[0m
+[0m[[0m[31merror[0m] [0m[0mprivate[dynamodb] object FilterPushdown {[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
